@@ -1,0 +1,3 @@
+This repository demonstrates a common error in C++ when removing elements from a std::vector using the erase() method within a loop. The code snippet shows how the loop index becomes invalidated when elements are removed, resulting in unexpected behavior.
+
+The solution provides a corrected approach to removing elements from the vector while ensuring correct index handling.  This is a subtle but frequently encountered issue in C++ vector manipulation.
